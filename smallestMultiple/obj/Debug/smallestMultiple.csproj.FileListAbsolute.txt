@@ -1,0 +1,7 @@
+C:\Users\ganta\source\repos\ConsoleApp7\smallestMultiple\bin\Debug\smallestMultiple.exe.config
+C:\Users\ganta\source\repos\ConsoleApp7\smallestMultiple\bin\Debug\smallestMultiple.exe
+C:\Users\ganta\source\repos\ConsoleApp7\smallestMultiple\bin\Debug\smallestMultiple.pdb
+C:\Users\ganta\source\repos\ConsoleApp7\smallestMultiple\obj\Debug\smallestMultiple.csprojResolveAssemblyReference.cache
+C:\Users\ganta\source\repos\ConsoleApp7\smallestMultiple\obj\Debug\smallestMultiple.csproj.CoreCompileInputs.cache
+C:\Users\ganta\source\repos\ConsoleApp7\smallestMultiple\obj\Debug\smallestMultiple.exe
+C:\Users\ganta\source\repos\ConsoleApp7\smallestMultiple\obj\Debug\smallestMultiple.pdb

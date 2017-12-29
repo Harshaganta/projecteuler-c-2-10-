@@ -1,0 +1,7 @@
+C:\Users\ganta\source\repos\ConsoleApp7\primenum\bin\Debug\primenum.exe.config
+C:\Users\ganta\source\repos\ConsoleApp7\primenum\bin\Debug\primenum.exe
+C:\Users\ganta\source\repos\ConsoleApp7\primenum\bin\Debug\primenum.pdb
+C:\Users\ganta\source\repos\ConsoleApp7\primenum\obj\Debug\primenum.csprojResolveAssemblyReference.cache
+C:\Users\ganta\source\repos\ConsoleApp7\primenum\obj\Debug\primenum.csproj.CoreCompileInputs.cache
+C:\Users\ganta\source\repos\ConsoleApp7\primenum\obj\Debug\primenum.exe
+C:\Users\ganta\source\repos\ConsoleApp7\primenum\obj\Debug\primenum.pdb

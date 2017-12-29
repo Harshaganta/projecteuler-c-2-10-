@@ -1,0 +1,7 @@
+C:\Users\ganta\source\repos\ConsoleApp7\PythagoreanTriplet\bin\Debug\PythagoreanTriplet.exe.config
+C:\Users\ganta\source\repos\ConsoleApp7\PythagoreanTriplet\bin\Debug\PythagoreanTriplet.exe
+C:\Users\ganta\source\repos\ConsoleApp7\PythagoreanTriplet\bin\Debug\PythagoreanTriplet.pdb
+C:\Users\ganta\source\repos\ConsoleApp7\PythagoreanTriplet\obj\Debug\PythagoreanTriplet.csprojResolveAssemblyReference.cache
+C:\Users\ganta\source\repos\ConsoleApp7\PythagoreanTriplet\obj\Debug\PythagoreanTriplet.csproj.CoreCompileInputs.cache
+C:\Users\ganta\source\repos\ConsoleApp7\PythagoreanTriplet\obj\Debug\PythagoreanTriplet.exe
+C:\Users\ganta\source\repos\ConsoleApp7\PythagoreanTriplet\obj\Debug\PythagoreanTriplet.pdb

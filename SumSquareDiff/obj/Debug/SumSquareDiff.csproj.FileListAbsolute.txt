@@ -1,0 +1,6 @@
+C:\Users\ganta\source\repos\ConsoleApp7\SumSquareDiff\bin\Debug\SumSquareDiff.exe.config
+C:\Users\ganta\source\repos\ConsoleApp7\SumSquareDiff\bin\Debug\SumSquareDiff.exe
+C:\Users\ganta\source\repos\ConsoleApp7\SumSquareDiff\bin\Debug\SumSquareDiff.pdb
+C:\Users\ganta\source\repos\ConsoleApp7\SumSquareDiff\obj\Debug\SumSquareDiff.csproj.CoreCompileInputs.cache
+C:\Users\ganta\source\repos\ConsoleApp7\SumSquareDiff\obj\Debug\SumSquareDiff.exe
+C:\Users\ganta\source\repos\ConsoleApp7\SumSquareDiff\obj\Debug\SumSquareDiff.pdb

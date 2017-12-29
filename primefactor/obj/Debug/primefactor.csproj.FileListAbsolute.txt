@@ -1,0 +1,7 @@
+c:\users\ganta\source\repos\ConsoleApp7\primefactor\bin\Debug\primefactor.exe.config
+c:\users\ganta\source\repos\ConsoleApp7\primefactor\bin\Debug\primefactor.exe
+c:\users\ganta\source\repos\ConsoleApp7\primefactor\bin\Debug\primefactor.pdb
+c:\users\ganta\source\repos\ConsoleApp7\primefactor\obj\Debug\primefactor.csprojResolveAssemblyReference.cache
+c:\users\ganta\source\repos\ConsoleApp7\primefactor\obj\Debug\primefactor.csproj.CoreCompileInputs.cache
+c:\users\ganta\source\repos\ConsoleApp7\primefactor\obj\Debug\primefactor.exe
+c:\users\ganta\source\repos\ConsoleApp7\primefactor\obj\Debug\primefactor.pdb

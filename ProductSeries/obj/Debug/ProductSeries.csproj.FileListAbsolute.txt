@@ -1,0 +1,7 @@
+C:\Users\ganta\source\repos\ConsoleApp7\ProductSeries\bin\Debug\ProductSeries.exe.config
+C:\Users\ganta\source\repos\ConsoleApp7\ProductSeries\bin\Debug\ProductSeries.exe
+C:\Users\ganta\source\repos\ConsoleApp7\ProductSeries\bin\Debug\ProductSeries.pdb
+C:\Users\ganta\source\repos\ConsoleApp7\ProductSeries\obj\Debug\ProductSeries.csprojResolveAssemblyReference.cache
+C:\Users\ganta\source\repos\ConsoleApp7\ProductSeries\obj\Debug\ProductSeries.csproj.CoreCompileInputs.cache
+C:\Users\ganta\source\repos\ConsoleApp7\ProductSeries\obj\Debug\ProductSeries.exe
+C:\Users\ganta\source\repos\ConsoleApp7\ProductSeries\obj\Debug\ProductSeries.pdb

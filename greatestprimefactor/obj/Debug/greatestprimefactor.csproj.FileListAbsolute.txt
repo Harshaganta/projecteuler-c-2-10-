@@ -1,0 +1,7 @@
+c:\users\ganta\source\repos\ConsoleApp7\greatestprimefactor\bin\Debug\greatestprimefactor.exe.config
+c:\users\ganta\source\repos\ConsoleApp7\greatestprimefactor\bin\Debug\greatestprimefactor.exe
+c:\users\ganta\source\repos\ConsoleApp7\greatestprimefactor\bin\Debug\greatestprimefactor.pdb
+c:\users\ganta\source\repos\ConsoleApp7\greatestprimefactor\obj\Debug\greatestprimefactor.csprojResolveAssemblyReference.cache
+c:\users\ganta\source\repos\ConsoleApp7\greatestprimefactor\obj\Debug\greatestprimefactor.csproj.CoreCompileInputs.cache
+c:\users\ganta\source\repos\ConsoleApp7\greatestprimefactor\obj\Debug\greatestprimefactor.exe
+c:\users\ganta\source\repos\ConsoleApp7\greatestprimefactor\obj\Debug\greatestprimefactor.pdb

@@ -1,0 +1,7 @@
+c:\users\ganta\source\repos\ConsoleApp7\palindrome\bin\Debug\palindrome.exe.config
+c:\users\ganta\source\repos\ConsoleApp7\palindrome\bin\Debug\palindrome.exe
+c:\users\ganta\source\repos\ConsoleApp7\palindrome\bin\Debug\palindrome.pdb
+c:\users\ganta\source\repos\ConsoleApp7\palindrome\obj\Debug\palindrome.csprojResolveAssemblyReference.cache
+c:\users\ganta\source\repos\ConsoleApp7\palindrome\obj\Debug\palindrome.csproj.CoreCompileInputs.cache
+c:\users\ganta\source\repos\ConsoleApp7\palindrome\obj\Debug\palindrome.exe
+c:\users\ganta\source\repos\ConsoleApp7\palindrome\obj\Debug\palindrome.pdb
